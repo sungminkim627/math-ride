@@ -22,3 +22,5 @@
 
 ## 🚀 Lessons Learned  
 Creating **Math Ride** taught me the fundamentals of programming, game development, and creative problem-solving. It solidified my love for coding and led me to pursue more advanced projects in the future.  
+![image](https://github.com/user-attachments/assets/34f6bdaa-7bab-4e0c-8e04-14206276ece2)
+![image](https://github.com/user-attachments/assets/5121955c-1b72-43b8-b35e-a7454c349302)

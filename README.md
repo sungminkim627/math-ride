@@ -26,5 +26,5 @@ Creating **Math Ride** taught me the fundamentals of programming, game developme
 ## 🎮 Screenshots  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/34f6bdaa-7bab-4e0c-8e04-14206276ece2" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5121955c-1b72-43b8-b35e-a7454c349302" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3df846b9-3acf-43fe-b519-8d1c62ecdc79" width="45%" />
 </p>

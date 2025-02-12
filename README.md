@@ -1,6 +1,6 @@
 # 🚗 Math Ride  
 
-**Math Ride** is a fast-paced educational game where players drive a car and must quickly pick the correct arithmetic math answers by switching lanes before time runs out! This was my first-ever coding project, and I built everything from scratch—including the music. It was the project that sparked my passion for programming.  
+**Math Ride** is a fast-paced educational game where players drive a car and must quickly pick the correct arithmetic math answers by switching lanes before time runs out! This was my first-ever coding project from highschool (2018), and I built everything from scratch—including the music. It was the project that sparked my passion for programming.  
 
 ## 🎯 Features  
 ✅ Lane-switching mechanics  
